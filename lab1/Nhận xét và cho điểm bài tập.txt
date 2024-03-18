@@ -1,5 +1,7 @@
 + Các bài tập nên để riêng từng file code. Ví dụ: Bài 1.py, bài 2.py,...
 + Mỗi bài tập thiếu ảnh hoặc file txt kết quả chạy thử. Từ lab 2 thiếu kết quả sẽ bị trừ 2 điểm tổng bài
++ Code giống bài của bạn Nguyễn Hải Quân, giống cả việc sai chính tả của từng bài và cách viết code
+
 + Nhận xét và cho điểm từng bài:
 - Bài 1: đúng
 Điểm bài tập: 1.0
