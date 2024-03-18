@@ -1,17 +1,33 @@
 + Các bài tập nên để riêng từng file code. Ví dụ: Bài 1.py, bài 2.py,...
 + Mỗi bài tập thiếu ảnh hoặc file txt kết quả chạy thử. Từ lab 2 thiếu kết quả sẽ bị trừ 2 điểm tổng bài
 + Nhận xét và cho điểm từng bài:
-- Bài 1: đúng +1 điểm
-- Bài 2: sử dụng function, kiến thức vượt ngoài kiến thức lab 1 +0.5 điểm
-- Bài 3: đúng +1 điểm
-- Bài 4: hình chóp tứ giác đều có đáy là hình vuông => Chu vi đáy = một cạnh x 4. Trong bài của em là một cạnh x 2????? 
+- Bài 1: đúng
+Điểm bài tập: 1.0
+
+- Bài 2: sử dụng function, kiến thức vượt ngoài kiến thức lab 1 
+Điểm bài tập: 0.5
+
+- Bài 3: đúng 
+Điểm bài tập: 1.0
+
+- Bài 4: hình chóp tứ giác đều có đáy là hình vuông => Chu vi đáy = (một cạnh x 4)/2. Trong bài của em là một cạnh x 2????? 
 	thể tích = diện tích đáy x chiều cao. Trong bài của em diện tích đáy là một cạnh x 2?????
- 	+ 0.75 điểm
+Điểm bài tập: 0.75
+
 - Bài 5: thiếu
-- Bài 6: sử dụng tuple, kiến thức vượt ngoài kiến thức lab 1 +0.5 điểm
-- Bài 7: đúng + 1 điểm
-- Bài 8: đúng + 1 điểm
-- Bài 9: đúng + 1 điểm
+
+- Bài 6: sử dụng tuple, kiến thức vượt ngoài kiến thức lab 1 
+Điểm bài tập: 0.5
+
+- Bài 7: đúng 
+Điểm bài tập: 1.0 
+
+- Bài 8: đúng 
+Điểm bài tập: 1.0
+
+- Bài 9: đúng 
+Điểm bài tập: 1.0
+
 - Bài 10: thiếu
 
-Tổng điểm: 6.75
+Tổng điểm bài tập lab 1: 6.75
