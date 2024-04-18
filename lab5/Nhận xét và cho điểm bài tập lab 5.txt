@@ -1,0 +1,31 @@
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: sử dụng kiến thức ngoài kiến thức đã học ở các lab. Nếu cô nhập vào 2 chuỗi aaaaabbbccc và aaaabc thì chuỗi con ký tự chung có độ dài ngắn nhất là abc em nhé
+Điểm bài tập: 0.25
+
+- Bài 3: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 4: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 5: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 6: thiếu
+Điểm bài tập: 0
+
+- Bài 7: sử dụng kiến thức ngoài kiến thức đã học ở các lab
+Điểm bài tập: 0.5
+
+- Bài 8: thiếu
+Điểm bài tập: 0
+
+- Bài 9: thiếu
+Điểm bài tập: 0
+
+- Bài 10: thiếu
+Điểm bài tập: 0
+
+Tổng điểm bài tập lab 5: 3.25 - 2 (thiếu ảnh) = 1.25
