@@ -1,0 +1,22 @@
+Bài 1: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 0.5
+
+Bài 2: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 1.0
+
+Bài 3: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 0.5
+
+Bài 4: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 1.0
+
+Bài 5: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 1.0 
+
+Bài 6.1: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 1.0
+
+Bài 6.2: sử dụng kiến thức ngoài kiến thức đã học
+Điểm: 1.0
+
+Tổng điểm bài tập lab 6: 6/12 -> 5.0
